@@ -1,0 +1,5 @@
+2020-05-28 at 11:03:36 CST ERROR com.log.PrintMain 27 main - log4j2日志输出：This is error message.
+2020-05-28 at 11:03:36 CST TRACE com.log.PrintMain 21 main - log4j2日志输出：This is trace message.
+2020-05-28 at 11:03:36 CST DEBUG com.log.PrintMain 23 main - log4j2日志输出：This is debug message.
+2020-05-28 at 11:03:36 CST INFO  com.log.PrintMain 25 main - log4j2日志输出：This is info message.This is info message.This is info message.This is info message.This is info message.This is info message.This is info message.This is info message.This is info message.
+2020-05-28 at 11:03:36 CST ERROR com.log.PrintMain 27 main - log4j2日志输出：This is error message.
